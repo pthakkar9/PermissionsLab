@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <!-- From: file:/C:/Users/parva.SwetaLaptop/AndroidStudioProjects/PermissionsLab/app/src/main/res/values/strings.xml -->
-    <eat-comment />
-
+    <!-- From: file:/C:/Users/parva.SwetaLaptop/AndroidStudioProjects/PermissionsLab1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
     <string name="app_name">PermissionsLab</string>
     <string name="cust_button1">Start Dangerous Activity</string>
     <string name="cust_message">This button will load a Dangerous Level activity</string>
@@ -14,9 +12,8 @@
     <string name="title_activity_customization">Customization</string>
     <string name="title_main">PermissionsLab</string>
     <string name="title_permissions">Permissions</string>
-    <!-- From: file:/C:/Users/parva.SwetaLaptop/AndroidStudioProjects/PermissionsLab/app/src/main/res/values/styles.xml -->
-    <eat-comment />
-
+    <!-- From: file:/C:/Users/parva.SwetaLaptop/AndroidStudioProjects/PermissionsLab1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
@@ -24,9 +21,7 @@
             backward-compatibility can go here.
         -->
     </style>
-
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
-
 </resources>
